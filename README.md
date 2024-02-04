@@ -1,4 +1,4 @@
-# driversafety
+# Advancing Driver Safety with Real-time Emotion and Behavior Analysis using a Vision Transformer and YOLO-v8
 This project implements a real-time driver assistance system using computer vision and deep learning techniques. It leverages the ViT (Vision Transformer) model for facial expression recognition and the YOLO-v8 object detection framework for identifying driver behaviors within the car environment.
 
 Features:
